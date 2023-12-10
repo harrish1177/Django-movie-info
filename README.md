@@ -1,5 +1,5 @@
 # Django-movie-info
-Files and Folders in this repository:
+Files and Folders in this repository:</br>
 The Django project is created in a virtual environment. The source code of the project is in 'myvirtualenv' folder.
 A script to send request to the API is in 'api_request.py' script
 A sample API response is in 'api_response.jpg' file
