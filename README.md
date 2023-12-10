@@ -10,4 +10,5 @@ A new movie is updated in database every 1 min.</br></br>
 **Note**:</br>
 Authentication is provided via tokens. These tokens are shared with the systems that use our API by our application admin, and this token must be sent with api request.</br>
 Separate thread, queries DB every 1 minute and caches the latest movie response, and the movie info in this cache is then sent back as response for every API request. Hence we don't query for every API request we receive.</br>
+Main app is at **https://github.com/harrish1177/Django-movie-info/tree/master/myvirtualenv/movies/movies/api_app**</br></br>
 
